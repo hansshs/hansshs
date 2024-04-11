@@ -1,24 +1,27 @@
 ## Hey There!
 
-An (almost) aerospace engineer looking for some new challenges in the programming world!
+🎓 Aerospace Engineer
+
+🛠️ Deploying a Federaeted Learning Platform
+
+🧠 Learning a bit about stocks and cybersecurity
 
 ### Technologies and Tools
+
+<div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="40" height="40"/>
-          
+</div>
 
-
+### The Stats
 <div>
 <a href="https://github.com/hansshs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansshs&layout=compact&langs_count=7&theme=github_light"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hansshs&show_icons=true&theme=github_light&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hansshs&show_icons=true&theme=ayu&include_all_commits=true&count_private=true"/>
 </div>
-
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
-          
+ 
 <!--
 **hansshs/hansshs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
