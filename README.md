@@ -19,7 +19,11 @@
 ### The Stats
 <div>
 <a href="https://github.com/hansshs">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansshs&layout=compact&langs_count=7&theme=transparent&title_color=FF0000"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansshs&layout=compact&langs_count=7&theme=transparent&title_color=000000&hide_border=true"/>
+
+<div data-repo="hansshs/Brazilian_Stocks_Eval"></div>
+<script src="https://github.com/anuraghazra/github-repo-card/releases/latest/download/widget.js"></script>
+
 <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hansshs&show_icons=true&theme=ayu&include_all_commits=true&count_private=true"/> ->
 </div>
  
